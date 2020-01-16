@@ -1,0 +1,11 @@
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.exe
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.deps.json
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.runtimeconfig.json
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.runtimeconfig.dev.json
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.dll
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\bin\Debug\netcoreapp3.1\br.com.gft.veiculo.pdb
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\obj\Debug\netcoreapp3.1\br.com.gft.veiculo.csprojAssemblyReference.cache
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\obj\Debug\netcoreapp3.1\br.com.gft.veiculo.AssemblyInfoInputs.cache
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\obj\Debug\netcoreapp3.1\br.com.gft.veiculo.AssemblyInfo.cs
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\obj\Debug\netcoreapp3.1\br.com.gft.veiculo.dll
+C:\Users\PODT\source\repos\br.com.gft.veiculo\br.com.gft.veiculo\obj\Debug\netcoreapp3.1\br.com.gft.veiculo.pdb
